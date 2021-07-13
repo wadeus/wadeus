@@ -1,4 +1,4 @@
-### やぁやぁ
+### Hi, I'm Wadeus!
 [![trophy](https://github-profile-trophy.vercel.app/?username=wadeus)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
