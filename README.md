@@ -1,5 +1,6 @@
 ### Hi, I'm Wadeus!
 [![trophy](https://github-profile-trophy.vercel.app/?username=wadeus)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wadeus&layout=compact&theme=dracula)
 
 <!--
 
